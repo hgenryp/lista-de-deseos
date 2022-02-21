@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Artículo de deseo" max_length="40" name="x_759922_lista_de_art_culo_de_deseo" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Articulo" max_length="125" name="articulo" type="string"/>
+        <element attributes="encode_utf8=false" label="Solicitante" max_length="32" name="solicitante" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="solicitante"/>
+        </index>
+    </element>
+</database>

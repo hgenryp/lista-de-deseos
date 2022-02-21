@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>articulo</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-21 18:57:57</sys_created_on>
+        <sys_data_policy display_value="Sets the Articulo field to mandatory">b5813e792f7d0110b53cd7a72799b641</sys_data_policy>
+        <sys_id>3d813e792f7d0110b53cd7a72799b643</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>articulo</sys_name>
+        <sys_package display_value="Lista de deseos" source="x_759922_lista_de">7980faf52f7d0110b53cd7a72799b6ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lista de deseos">7980faf52f7d0110b53cd7a72799b6ed</sys_scope>
+        <sys_update_name>sys_data_policy_rule_3d813e792f7d0110b53cd7a72799b643</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-21 18:57:57</sys_updated_on>
+        <table>x_759922_lista_de_art_culo_de_deseo</table>
+    </sys_data_policy_rule>
+</record_update>
